@@ -169,7 +169,4 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors:
 Olanipekun Hikmah Kikelomo | olanipekunhikmahkikelomo@gmail.com
-Adesubokan Solomon Niyi | Fornigrics@gmail.com
-
-
-)
+Adesubokan Solomon Niyi | fornigrics@gmail.com
