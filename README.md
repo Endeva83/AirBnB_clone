@@ -168,7 +168,7 @@ The recognizable commands by the interpreter are the following:
 | **Usage** | **<class name\>.count()** |
 
 ## Authors:
-Olaonipekun Hikmah | olanipekunhikmahkikelomo@gmail.com
+Olanipekun Hikmah Kikelomo | olanipekunhikmahkikelomo@gmail.com
 Adesubokan Solomon Niyi | Fornigrics@gmail.com
 
 
